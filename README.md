@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Louq-Tech
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Javascript
+- 👀 I’m a pythonista.
+- 🌱 I’m currently learning C#
 
 <!---
 Louq-Tech/Louq-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
