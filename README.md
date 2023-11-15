@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Louq-Tech
-- 👀 I’m a pythonista.
-- 🌱 I’m currently learning C#
+### WHO AM I?
+- Hi, I’m __Louq-Tech__, currently i am basing on __Backend Web Development(with python)__, __Desktop Development & Android Application Development(Both with C#)__
 
-<!---
-Louq-Tech/Louq-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### FUTURE GOALS
+- I am dedicated to expanding my expertise in __Data Analysis__ and __Game Development__ once I have attained a high level of proficiency in Software Development and Web Development.
